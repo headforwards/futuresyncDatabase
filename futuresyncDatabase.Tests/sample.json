@@ -1,0 +1,271 @@
+﻿[{
+  "name": "Dylan Schiemann",
+  "description": "Founder and CEO,Sitepen",
+  "imageUrl": "https://futuresync.co.uk/images/speakers/speaker-dylan-schiemann.png",
+  "track": "software development",
+  "talk": {
+    "title": "Track Keynote: The Future of the Web Platform",
+    "description": "As CEO of SitePen and co-founder of Dojo, Dylan Schiemann is an established presence in the JavaScript and open source communities. Under his direction, SitePen has become the definitive source for enterprise organisations that are focused on creating well-tested, highly performant and sustainable web applications. Dylan’s current initiatives include guiding development on Intern, TypeScript and Dojo 2. Dylan was the co-founder of the Dojo Foundation prior to its merger with the jQuery Foundation to form the JS Foundation. Dylan also helps organise the HalfStack meetup and conference and the Phoenix TypeScript meetup. When not actively engaged in bettering SitePen and demanding better developer tools, Dylan enjoys traveling and sharing his experience at conferences around the world.The only constant is change. The web constantly evolves to remain the competitive universal environment for building all forms of software. Whether it's ES2015+, WebXR, speech recognition, or other modern and emerging standards, the web of today and tomorrow is almost unrecognizable from just a few years ago.In his talk, Dylan will explore emerging web technologies and predict their future, ranging from recently established standards like TypeScript and WebAssembly, to newer frameworks and technologies like Svelte, Dojo, and Deno, to machine learning and its impact on development and testing, and a wide range of new proposals from TC39 and WICG. He'll also examine what it means to be the web, how this changes beyond traditional browser UIs, and why the open web still matters for our future.",
+    "talkUrl": "https://futuresync.co.uk/speakers/dylan-schiemann"
+  }
+}, {
+  "name": "Michelle Barker",
+  "description": "Front-end Developer,Ordoo",
+  "imageUrl": "https://futuresync.co.uk/images/speakers/speaker-michelle-barker.png",
+  "track": "software development",
+  "talk": {
+    "title": "Talk Topic: Building Complex Layouts with CSS Grid",
+    "description": "Michelle Barker is a front-end developer with a passion for CSS and a background in design, illustration and events management. By day she builds UX-driven experiences for Ordoo, a mobile ordering startup. She is a prolific writer on her blog, CSS&nbsp;{In&nbsp;Real&nbsp;Life}, and has authored articles for several other publications, including CSS Tricks, Smashing Magazine and the Pastry Box Project, to name a few.When it comes to crafting layouts on the web, CSS Grid is more powerful than anything we’ve had available to us before. In her talk, Michelle will look at ways in which we can harness the power of Grid to build complex, responsive, two-dimensional components, taking advantage of some less familiar properties. Michelle will also demonstrate how we can use CSS variables to keep our Grid code DRY, reusable and maintainable.",
+    "talkUrl": "https://futuresync.co.uk/speakers/michelle-barker"
+  }
+}, {
+  "name": "Paul Donovan",
+  "description": ".NET Developer,Headforwards",
+  "imageUrl": "https://futuresync.co.uk/images/speakers/speaker-paul-donovan.png",
+  "track": "software development",
+  "talk": {
+    "title": "Talk Topic: Imagine the World Through the Eyes of a Code Mobster!",
+    "description": "Paul has been in the IT industry for 25 years, previously he worked in investment banking and medical systems in London before moving to Cornwall. Paul joined Headforwards 3 years ago and he now develops MVC Web applications for a global insurance company. Paul loves living in Cornwall and is keen to share knowledge in the industry.Imagine a world where you type less but get more done. Where code quality builds even when you’re getting a cup of tea. Where code refractors are easy. Imagine the world through the eyes of a code mobster!This talk will introduce the Future Sync audience to mob programming, often cited as the most efficient way to create code and upskill new team members. Naturally, the talk will be delivered in a mob fashion! Alongside the session, the Headforwards team will be mobbing with the audience during the breaks, creating an application over the course of the conference.",
+    "talkUrl": "https://futuresync.co.uk/speakers/paul-donovan"
+  }
+}, {
+  "name": "Nick Schwaderer",
+  "description": "Senior Ruby on Rails Developer,OceansHQ",
+  "imageUrl": "https://futuresync.co.uk/images/speakers/speaker-nick-schwaderer.png",
+  "track": "software development",
+  "talk": {
+    "title": "Talk Topic: Preparing for a Natural Disaster Using Bots",
+    "description": "Nick Schwaderer is a Senior Ruby on Rails Developer at OceansHQ, the world's primary supplier of innovative and visionary solutions for maritime administrations and related businesses. Nick writes at https://schwad.github.io, the open source components of his work live at https://github.com/schwad, and he is also the creator of Mara.On December 6, 2018, over 30 million people in the United Kingdom lost mobile data on their phones. From a developer's perspective this means the 'death' of any mobile-accessed applications. For a person this means a critical, and possibly dangerous, cutting off from the world. In the event of a natural disaster the consequences would be much larger. SMS-based apps are immune to loss of mobile data. In this talk, Nick will look at several examples of bot-based Ruby applications, and how modern software development can supply information when mobile data is down. This will start with everyday bot examples and conclude with the actual natural-disaster example. The audience will be able to consider front-end interfaces other than web or mobile GUIs for future development and will learn creative ways to handle data/wireless outages.",
+    "talkUrl": "https://futuresync.co.uk/speakers/nick-schwaderer"
+  }
+}, {
+  "name": "Paul Rose",
+  "description": "Web Development & Technical Leadership Consultant,Saltwaves Ltd.",
+  "imageUrl": "https://futuresync.co.uk/images/speakers/speaker-paul-rose.png",
+  "track": "software development",
+  "talk": {
+    "title": "Talk Topic: Real Time with Vue.js",
+    "description": "Paul Rose is an experienced Web Development & Technical Leadership Consultant providing technical consultancy to businesses of all sizes. He offers a range of services on a project or contract basis including Web Development, User Experience Analysis, User Interaction & Interface design and development, Technical Architecture & Operations, and Technical Leadership.Paul's talk will be a live coding session building a real-time app with Laravel & Vue.js.",
+    "talkUrl": "https://futuresync.co.uk/speakers/paul-rose"
+  }
+}, {
+  "name": "Tom Hazledine",
+  "description": "Senior Front-end Developer,Cronofy",
+  "imageUrl": "https://futuresync.co.uk/images/speakers/speaker-tom-hazledine.png",
+  "track": "software development",
+  "talk": {
+    "title": "Talk Topic: Building a Delay: Recreating an Analogue Delay Pedal with the Web Audio API, JS, and CSS",
+    "description": "Tom Hazledine is a Senior Front-end Developer at Cronofy, a unified calendar API for SaaS businesses, and is currently based in Cornwall. Tom's tools of choice are JavaScript, CSS and SVG, supported by React and D3. After spending many years building client-sites with design agencies, his focus today is on user interfaces for web apps.Tom is a keen tinkerer of technology, and can often be found bringing together his love of web development and music. In recent years he's created a catalogue of web browser based FX modules, interfacing with more traditional music equipment. This passion for music had led to Tom creating Picobel.js, a lightweight dependency-free Javascript tool that converts html audio tags into styleable markup.Tom is the co-host of A Question of Code, a podcast focused around a newbie coder and a seasoned veteran discussing the questions that always come up when someone begins learning to code. You can find the podcast via your favourite pod catcher.In his talk, Tom will demonstrate an analogue delay unit (guitar pedal) with some audience participation and explore the key concepts of \"delay time\" and \"feedback level\". Tom’s talk will provide a high-level introduction to the Web Audio API, focusing on the concept of a \"signal path\", and how this translates into JavaScript.",
+    "talkUrl": "https://futuresync.co.uk/speakers/tom-hazledine"
+  }
+}, {
+  "name": "Nick Charlton",
+  "description": "Developer,thoughtbot",
+  "imageUrl": "https://futuresync.co.uk/images/speakers/speaker-nick-charlton.png",
+  "track": "software development",
+  "talk": {
+    "title": "Talk Topic: Maintaining Open Source Software; or how I Learned to Stop Worrying and Love Dealing with Grumpy People",
+    "description": "Nick Charlton is a Software Developer at thoughtbot, a design and development consultancy that brings your digital product ideas to life. Nick focuses on Ruby on Rails and iOS projects and has built everything from complex front-end interactions to performant APIs. He also co-hosts a podcast on iOS development called Build Phase and maintains some open source projects most of which are focused on “administrate” (a library for building Rails admin dashboards).In his talk, Nick will cover what it’s like to maintain an open source project, how you could get involved in one yourself and how you know what you are doing is working. He will discuss his experience taking over administrate framework and go over some strategies to confidently maintain open source projects.",
+    "talkUrl": "https://futuresync.co.uk/speakers/nick-charlton"
+  }
+}, {
+  "name": "Ruth John",
+  "description": "Coding Artist & {&nbsp;Live&nbsp;:&nbsp;JS&nbsp;} Founder",
+  "imageUrl": "https://futuresync.co.uk/images/speakers/speaker-ruth-john.png",
+  "track": "creative design",
+  "talk": {
+    "title": "Talk Topic: How to Be a Web A/V Artist",
+    "description": "Ruth John is an award nominated digital artist, web consultant, keynote speaker and writer, with 15 years of experience in the digital industry. As well as being a Google Developer Expert, Ruth is on the board of directors for Bath Digital Festival and during her career has worked for many notable companies including O2 and BSkyB, as well as clients such as the BBC, NBC, Cancer Research UK, Heineken and Channel 4 among others. Ruth is one of the {&nbsp;Live&nbsp;:&nbsp;JS&nbsp;} founders, a collective which brings audio and visual code to life, in live performances across the globe.",
+    "talkUrl": "https://futuresync.co.uk/speakers/ruth-john"
+  }
+}, {
+  "name": "Chloe Poulter",
+  "description": "Product UX Designer,IBM",
+  "imageUrl": "https://futuresync.co.uk/images/speakers/speaker-chloe-poulter.png",
+  "track": "creative design",
+  "talk": {
+    "title": "Talk Topic: An Argument for Content-driven Design",
+    "description": "Chloe Poulter is a Product UX Designer at IBM Hybrid Cloud and Interaction Design Foundation London local leader.In her talk, Chloe will take a look at content-driven design in practice. Taking inspiration from solutions-based coaching models (OSKAR), participants will be empowered to approach their research, branding, and experience design starting with a vision of customer success.Many designers are trained to work with content specialists, but have to provide their own writing in industry, so this talk will start with some quick-fire ways they can boost their writing confidence. Next, methods that a design team at IBM have used to collaboratively write highly technical copy will be shared and activities suggested for use in attendees' own work. Finally, the talk will look at the benefits of allowing content to drive the design process in term of user outcomes.",
+    "talkUrl": "https://futuresync.co.uk/speakers/chloe-poulter"
+  }
+}, {
+  "name": "Julia Le Gallo",
+  "description": "Business Development Manager,Engine House Studio",
+  "imageUrl": "https://futuresync.co.uk/images/speakers/speaker-julia-le-gallo.png",
+  "track": "creative design",
+  "talk": {
+    "title": "Talk Topic: Exoplanet Explorer: an Immersive Experience Beyond Reach",
+    "description": "Julia Le Gallo is a Business Development and Marketing Manager at Engine House, an award-winning animation studio based in Redruth, Cornwall. Julia is Engine House's first point of contact for developing animation projects with their clients. She is also the driving force behind the company's direction, looking at ways to diversify their activities and let their creativity thrive in the best possible way.Julia will talk about Exoplanet Explorers project and the challenges they faced designing the experiences, mainly finding the right software, techniques and making the visuals scientifically accurate. Julia will explain how translating scientific data into a visual immersive experience can be a powerful and inspiring outreach tool, and how designing high-end immersive projects like Exoplanet Explorers can provide limitless possibilities for visual and emotional experiences.",
+    "talkUrl": "https://futuresync.co.uk/speakers/julia-le-gallo"
+  }
+}, {
+  "name": "Tom French",
+  "description": "Digital Planner,The Moment",
+  "imageUrl": "https://futuresync.co.uk/images/speakers/speaker-tom-french.png",
+  "track": "creative design",
+  "talk": {
+    "title": "Talk Topic: Changing our Relationship with Tech – Do we Have a Responsibility as Designers?",
+    "description": "Tom is the Digital Planner at The Moment, having spent his career exploring the relationship between audiences, content and technology. In short, his experience has taught him that understanding the audience and being able to creatively inspire an emotional response through the right digital technology/channels ensures high engagement, and more importantly, dictates clear behaviour/actions. Tom has been responsible for a range of ‘digital’ projects, from major digital transformation for large corporations to activation projects for start-ups and new brands.Every part of work and home lives is saturated with tech. But we’re no longer in control, our personal data has become currency and humans have become completely co-dependent on digital services. You could say that the inherent ‘design’ of social networks and online services is to encourage re-use, to reward addictive behaviour, to craft experiences that never end. In his talk, Tom will discuss if we have a responsibility as designers to change this and to help create a world where humans have a better, more positive relationship with tech.",
+    "talkUrl": "https://futuresync.co.uk/speakers/tom-french"
+  }
+}, {
+  "name": "Antonia Coppen",
+  "description": "Co-founder & Director,Greenwave Laser",
+  "imageUrl": "https://futuresync.co.uk/images/speakers/speaker-antonia-coppen.png",
+  "track": "creative design",
+  "talk": {
+    "title": "Talk Topic: Dataflow Machines and Frickin' Laser Beams",
+    "description": "Antonia Coppen is one half of the Greenwave Laser team, a creative and technical partnership built around large scale laser displays. Antonia's background in event management combines with a keen interest in theatrical staging, sound editing and choreography in an innovative laser display service in Cornwall. The first of its kind.Laser displays have traditionally been reserved for glamorous fashion shows and impressive corporate events, seemingly beyond the reach of individuals, local businesses and communities. Antonia helps individuals and organisations capture the magic of lasers for their special occasion and engaging and entertaining audiences with a truly memorable experience.In a joint talk with Paul Clark, Antonia will explore the concept of a 'dataflow machine' which enables designers to create complex, powerful systems by plugging together simple modules in a graphical user interface, without writing any code. They will show how Greenwave Laser is using Packet Ship's technology to create innovative laser-based experiences, and how the same concepts can be used in audio, data analysis, IoT - and, most excitingly, combining multiple disciplines. The audience will gain an insight into the benefits of creative / technical partnerships, an understanding of the basics of dataflow architecture and an inspiration on ways of using these techniques in their own specialism.",
+    "talkUrl": "https://futuresync.co.uk/speakers/antonia-coppen"
+  }
+}, {
+  "name": "Paul Clark",
+  "description": "Co-founder & Director,Greenwave Laser",
+  "imageUrl": "https://futuresync.co.uk/images/speakers/speaker-paul-clark.png",
+  "track": "creative design",
+  "talk": {
+    "title": "Talk Topic: Dataflow Machines and Frickin' Laser Beams",
+    "description": "Paul Clark is a software developer and product creator with 30 years in software industry, 20 at Board level. He is a CEO of Packet Ship Technologies, a software company providing technology components for management, distribution and playback of broadcast-quality digital media.Paul is also a founding partner and director of Greenwave Laser, the only professional laser display service in Cornwall, helping individuals and organisations capture the magic of lasers for their special occasion and engaging and entertaining audiences with a truly memorable experience. Early in his career, Paul wrote the code and operated lasers for displays in Covent Garden and continues to write code today that drives his new laser innovations.In a joint talk with Antonia Coppen, Paul will explore the concept of a 'dataflow machine' which enables designers to create complex, powerful systems by plugging together simple modules in a graphical user interface, without writing any code. They will show how Greenwave Laser is using Packet Ship's technology to create innovative laser-based experiences, and how the same concepts can be used in audio, data analysis, IoT - and, most excitingly, combining multiple disciplines. The audience will gain an insight into the benefits of creative / technical partnerships, an understanding of the basics of dataflow architecture and an inspiration on ways of using these techniques in their own specialism.",
+    "talkUrl": "https://futuresync.co.uk/speakers/paul-clark"
+  }
+}, {
+  "name": "Wo King",
+  "description": "CEO, Hi9",
+  "imageUrl": "https://futuresync.co.uk/images/speakers/speaker-wo-king.png",
+  "track": "creative design",
+  "talk": {
+    "title": "Talk Topic: Voice UI for the IoT",
+    "description": "Wo King is the founder of Hi9, a Cornish tech startup, making the web simple for all. He is a Google Polymer and Firebase tutor and advocate as well as the founder of Google Developer Group Cornwall which is a place open for all to discuss technology and aid others with tech innovations.Wo’s talk will focus on Voice UI for the IoT and explore how to incorporate either Alexa or Google Home SDK into devices.",
+    "talkUrl": "https://futuresync.co.uk/speakers/wo-king"
+  }
+}, {
+  "name": "Zuby",
+  "description": "Independent Rapper & Entrepreneur",
+  "imageUrl": "https://futuresync.co.uk/images/speakers/speaker-zuby.png",
+  "track": "business innovation",
+  "talk": {
+    "title": "Talk Topic: Finding Your Voice – Social Media for Creatives, Brands and Business",
+    "description": "Zuby is an anomaly in hip-hop. He was born in England, grew up in Saudi Arabia (where he attended an American school) and is a graduate of Oxford University. Through years of hard work and dedication, he has become one of the UK’s most accomplished independent rappers, selling over 25,000 albums without a record deal.​His inspirational lyrics, intelligent wordplay and unique brand of 'Commercial Underground Hip-hop' have earned Zuby a loyal fan base, amassing over a million YouTube views and tens of thousands of social media followers.Zuby will be sharing the lessons learned in circumventing record labels through the use of modern media before uncovering how businesses can use these lessons to fuel their future success.Over the past decade, social media has become an increasingly important part of our daily lives - from the way we communicate and interact with each other, to the way we learn about and consume new information. How can individuals and brands harness these tools to benefit them? Learn how to find and use your voice to grow an audience online, through authentic and engaging content.",
+    "talkUrl": "https://futuresync.co.uk/speakers/zuby"
+  }
+}, {
+  "name": "Chris Blunt",
+  "description": "Software Consultant & Director,Plymouth Software",
+  "imageUrl": "https://futuresync.co.uk/images/speakers/speaker-chris-blunt-2.png",
+  "track": "business innovation",
+  "talk": {
+    "title": "Talk Topic: Business of Software - Lessons Learned So Far (and What I Wish I'd Known)",
+    "description": "Chris is a software consultant, developer and director at Plymouth Software Limited. His goal in business is to end the waste of time and resources organisations spend developing unnecessary software, and help them optimise their process to deliver successful apps.\r\nChris works with business owners, organisations and software teams to implement lightweight agile practice, and build continuous improvement and delivery into their software development process. Today, Chris primarily helps teams building apps with Rails (Ruby), Android (Java and Kotlin), iOS (Swift), and Docker. He works with organisations such as The National Trust for Scotland and Plymouth University. Chris also works with early-stage businesses to help refine their software strategy, validate their ideas, and build great products.",
+    "talkUrl": "https://futuresync.co.uk/speakers/chris-blunt"
+  }
+}, {
+  "name": "Richard Norton",
+  "description": "Co-founder & AI Creative,Tiny Giant",
+  "imageUrl": "https://futuresync.co.uk/images/speakers/speaker-richard-norton.png",
+  "track": "business innovation",
+  "talk": {
+    "title": "Talk Topic: Using AI to Power Advertising Creativity",
+    "description": "Richard Norton is the co-founder of Tiny Giant, a band of creatives and computer scientists who combine bold ideas with smart technology to deliver marketing that moves people.He is also the co-host of I’ll Be Back South West, the monthly meet-up exploring the intersection between AI, creativity and advertising.Richard has stepped away from conventional agency life to follow his dream of working with artificial intelligence and to collaborate with brands, businesses, agencies and developers in the realms of creative AI, voice and online bots.In a joint track keynote with Kerry Harrison, Richard will explore a wealth of examples on using AI to power advertising creativity.",
+    "talkUrl": "https://futuresync.co.uk/speakers/richard-norton"
+  }
+}, {
+  "name": "Kerry Harrison",
+  "description": "Co-founder & AI Creative,Tiny Giant",
+  "imageUrl": "https://futuresync.co.uk/images/speakers/speaker-kerry-harrison.png",
+  "track": "business innovation",
+  "talk": {
+    "title": "Talk Topic: Using AI to Power Advertising Creativity",
+    "description": "Kerry Harrison is the co-founder of Tiny Giant, a band of creatives and computer scientists who combine bold ideas with smart technology to deliver marketing that moves people.She is also the co-host of I’ll Be Back South West, the monthly meet-up exploring the intersection between AI, creativity and advertising.Alongside her work at Tiny Giant and I’ll Be Back, Kerry is a freelance conceptual copywriter who has over 17 years' experience writing for a diverse mix of brands including McDonalds, Virgin, Legal & General, Samsung, NSPCC and BMW.In a joint track keynote with Richard Norton, Kerry will explore a wealth of examples on using AI to power advertising creativity.",
+    "talkUrl": "https://futuresync.co.uk/speakers/kerry-harrison"
+  }
+}, {
+  "name": "Katherine George",
+  "description": "Director & Social Media Marketing Expert,Oh So Social",
+  "imageUrl": "https://futuresync.co.uk/images/speakers/speaker-katherine-george.png",
+  "track": "business innovation",
+  "talk": {
+    "title": "Talk Topic: Social Listening: The Next Generation in Customer Service",
+    "description": "Katherine George is the Managing Director of Oh So Social, Cornwall’s first marketing agency focusing solely on social media. Having previously worked on high profile projects for The Dancing on Ice Tour and Team GB, Katherine’s level of knowledge and wealth of experience has resulted in the rapid growth of Oh So Social over just a few years.Through Oh So Social, Katherine offers training, help, advice, strategy and brand management from their office in Penryn, a far cry from the farmhouse kitchen table where the business started in 2014. Today, Oh So Social has grown into an elite team of social media experts, managing a wide range of clients both in the UK and internationally.Her achievements haven’t gone unrecognised, as she’s scooped a number of awards along Oh So Social’s journey. These include Young Business Person of the Year and being named in Cornwall’s 30 Under 30 list two years running. In 2018 she had the great honour of being chosen by Facebook as one of just 24 social media advisers in the UK for their annual #SheMeansBusiness campaign, which celebrates and provides training for female founders of start-up businesses.When Katherine’s not sharing her social media knowledge with businesses across the country she can be found riding her horse, hand-rearing lambs or attempting to bake cakes for the office!",
+    "talkUrl": "https://futuresync.co.uk/speakers/katherine-george"
+  }
+}, {
+  "name": "Rupa Chilvers",
+  "description": "Programme Manager,South West AHSN",
+  "imageUrl": "https://futuresync.co.uk/images/speakers/speaker-rupa-chilvers.png",
+  "track": "business innovation",
+  "talk": {
+    "title": "Talk Topic: Digital Tech: the People and the Potential",
+    "description": "Rupa Chilvers is a Programme Manager at the South West Academic Health Science Network. She is an RSA Fellow (Royal Society for the Encouragement of Arts, Manufactures and Commerce), BPS Member (British Psychological Society) and holds a doctorate in public health and policy. She works with a wide range of stakeholders on knowledge translation, spread and adoption of innovations into health and care. Rupa is currently focussing on digital health and care technologies with a strong interest in human factors and use of research in supporting care.Rupa’s talk will be a walk around some of the gems and opportunities coming our way in digital health and social care in 2019/20 and beyond. The audience will find out what is happening nationally and locally for digital health with NHS / social care organisations, the exciting new shiny conversations including the NHS App, the potential for more and the appetite in the system at the moment.",
+    "talkUrl": "https://futuresync.co.uk/speakers/rupa-chilvers"
+  }
+}, {
+  "name": "Matthew Shaw",
+  "description": "Senior Software Engineer,HM&nbsp;Land&nbsp;Registry",
+  "imageUrl": "https://futuresync.co.uk/images/speakers/speaker-matthew-shaw.png",
+  "track": "business innovation",
+  "talk": {
+    "title": "Talk Topic: Digital Street: Exploring the Future of Property Transactions Using Blockchain Technology",
+    "description": "Matthew Shaw is a Senior Software Engineer at HM Land Registry with 12 years' experience of software development in central government. Matt designs and creates software that underpins the UK property market, processing 32.5m requests worth £317.2m a year. From desktop applications, data transformation, enterprise web services to citizen focussed services; Matt has a broad experience of transformational digital government services. Matt led the team that delivered the multiple award-winning Property Alert service, helping to tackle property fraud, along with the GOV.UK service Find Property Information, making access to property records simpler, clearer and faster. Recently Matt has been working on HM Land Registry’s ground-breaking Digital Street project; a research and development initiative working with the industry to explore the future of land registration through new technologies such as blockchain and smart contracts.HM Land Registry’s Digital Street research and development project aims to put them at the forefront of global land registration innovation. Digital Street is creating a vision of the future of property transactions using technologies such as blockchain, distributed ledgers and smart contracts. Their aim is to make property buying and selling simpler, faster and cheaper through the use of data, technology and innovation. HM Land Registry are creating positive digital disruption through building a community of industry representatives, data providers, government departments and technology start-ups. They have developed and refined a proof of concept that demonstrates an approach to using distributed ledger technology and smart contracts. This talk will explore the technologies they used, how they are implemented, their benefits and drawbacks and what they’ve learned as a result.",
+    "talkUrl": "https://futuresync.co.uk/speakers/matthew-shaw"
+  }
+}, {
+  "name": "Katharine Willis",
+  "description": "Associate Professor,Plymouth University",
+  "imageUrl": "https://futuresync.co.uk/images/speakers/speaker-katharine-willis.png",
+  "track": "business innovation",
+  "talk": {
+    "title": "Talk Topic: Smart Urban Futures",
+    "description": "Dr Katharine Willis is an Associate Professor at the School of Art, Design and Architecture, Plymouth University. Her work is concerned with exploring the many ways through which we perceive and interact with our spatial environment. A key aim of the work is to propose approaches for creating legible environments when urban space is experienced through new technologies. Katharine takes an interdisciplinary approach to her work and undertakes research, teaching and projects.Smart cities have the potential to create urban environments that are more innovative, sustainable and creative. As our lives become more shaped by digital technologies, there is an increased need for designers who understand the digital context in which our cities are developing, who can take a holistic approach to the complex ecosystem of technologies and innovate using socially responsible approaches.This talk will introduce how smart cities integrate AR/VR, IoT, AI and data into the design of cities. It will explore how digital innovation will bring together people from different fields and industries to work together on shaping future cities.",
+    "talkUrl": "https://futuresync.co.uk/speakers/katharine-willis"
+  }
+}, {
+  "name": "Alex Printer",
+  "description": "Yena Plymouth Organiser",
+  "imageUrl": "https://futuresync.co.uk/images/speakers/speaker-alex-printer.png",
+  "track": "Yena Panel",
+  "talk": {
+    "title": "Yena Panel Host",
+    "description": "After training as a Weapon Engineering Officer with the Royal Navy, Alex found his passion for business from the Rich Dad book series. Since, he’s founded MeeBe, a personal shopping app, been Marketing Director at on demand van marketplace, Shift, and managed the shared houses he aims to invest in.With an eagerness to bring together the young creative and business community in Plymouth he sought to launch YENA in the City which has now run for over a year.",
+    "talkUrl": "https://futuresync.co.uk/speakers/alex-printer"
+  }
+}, {
+  "name": "Ash Phillips",
+  "description": "Founder, Yena",
+  "imageUrl": "https://futuresync.co.uk/images/speakers/speaker-ash-phillips.png",
+  "track": "Yena Panel",
+  "talk": {
+    "title": "Yena Panellist",
+    "description": "Ash is the founder of Yena - a community and platform with a mission to make starting up accessible to anyone, anywhere.Started as a single small meetup in Bristol in 2013, Yena now runs 130+ Rebel Meetups for free across 17 cities globally, connecting 5,000+ ambitious likeminds each year. Its 'acceleration as a service' platform helps hundreds of members to get access to high quality benefits, business support and ecosystem via an affordable subscription.",
+    "talkUrl": "https://futuresync.co.uk/speakers/ash-phillips"
+  }
+}, {
+  "name": "Carly Britton",
+  "description": "Head of Client Services,VUALTO",
+  "imageUrl": "https://futuresync.co.uk/images/speakers/speaker-carly-britton.png",
+  "track": "Yena Panel",
+  "talk": {
+    "title": "Yena Panellist",
+    "description": "Carly has worked in the IT sector for over 12 years and has spent the last 6 years at VUALTO specialising in video technology. VUALTO has a revenue of 3.5 million, 40 employees and provides online streaming solutions for many European broadcasters and government agencies.Carly is an advocate for raising awareness of tech careers for women and is a STEM ambassador and founder of #GirlCode – a free coding club for girls aged 8-14 in Plymouth. She is also the co-founder of Babble – a travel app for women.",
+    "talkUrl": "https://futuresync.co.uk/speakers/carly-britton"
+  }
+}, {
+  "name": "Elliot Coad",
+  "description": "Founder,Offset Earth",
+  "imageUrl": "https://futuresync.co.uk/images/speakers/speaker-elliot-coad.png",
+  "track": "Yena Panel",
+  "talk": {
+    "title": "Yena Panellist",
+    "description": "Elliot is the founder of Offset Earth, a new startup that will automatically offset your individual or business' carbon footprint. Prior to this he has spent the last 10 years building happy and creative tech teams working for SaaS and media companies.Offset Earth came about from the frustration of feeling helpless as the world starts to come to terms with our climate challenge. The service imagines a planet where each person just puts a few pounds a month in to incredible climate projects going on around the world.",
+    "talkUrl": "https://futuresync.co.uk/speakers/elliot-coad"
+  }
+}, {
+  "name": "Rubi Kaur FBCS",
+  "description": "Solutions Architect at Vodafone Group & Trustee of the Chartered Institute for IT.",
+  "imageUrl": "https://futuresync.co.ukimages/speakers/speaker-rubi-kaur.png",
+  "track": "keynote",
+  "talk": {
+    "title": "Keynote: Is This the Age of Digital Enlightenment?",
+    "description": "Rubi Kaur is a Senior Solutions Architect at Vodafone Group for Enterprise new product development. She has over 20 years industry managerial and technical lead experience from previous roles at BT, O2 and the UK Government. In 2012 Rubi led her team to win the UK Business Green IT Team of the year and the UK Government Treasury Finance Award for Sustainability. Rubi is a Fellow of the BCS (The British Computer Society – the Chartered Institute for IT). As a Trustee and advisory Council member to the British Computer Society Rubi works to ensure “Tech is Good for Society” so that the ethical and societal impacts of Technology are understood whilst ensuring the Tech profession is forever inclusive, diverse and progressive in a modern digital world. In 2016 Rubi was on the Judges panel for the judging the Computer Weekly's Most Influential Women in UK IT awards.In the opening keynote, Rubi will look into the journey from the old tech (analogue) world to the new tech world of the digital creative industries. She will highlight the need for creativity, collaboration and ideation to fuel the digital enlightenment age. Rubi will also explore the impact our technology has on empowering a better connected society and the need for passion and ethics in our digital world.",
+    "talkUrl": "https://futuresync.co.uk/speakers/rubi-kaur"
+  }
+} ]
