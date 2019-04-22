@@ -1,3 +1,4 @@
+using futuresyncDatabase.Providers;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -27,6 +28,9 @@ namespace futuresyncDatabase
             {
                 configuration.RootPath = "ClientApp/build";
             });
+
+            services.AddTransient<IWebClient, WebClient>();
+            services.AddTransient<IWebClientProvider, WebClientProvider>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

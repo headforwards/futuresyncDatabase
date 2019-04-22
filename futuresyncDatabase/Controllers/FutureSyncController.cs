@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Net;
 using System.Threading.Tasks;
+using futuresyncDatabase.Models;
+using futuresyncDatabase.Providers;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json.Linq;
@@ -13,24 +15,51 @@ namespace futuresyncDatabase.Controllers
     [ApiController]
     public class FutureSyncController : ControllerBase
     {
-
         private const string api = "http://futuresyncspeakers.azurewebsites.net/api/speakers";
 
-        // GET: api/FutureSync
-        [HttpGet("tracks")]
-        public IEnumerable<string> GetTracks()
+        private readonly IWebClientProvider webClientProvider;
+
+        public FutureSyncController(IWebClientProvider webClientProvider)
         {
-            var client = new WebClient();
+            this.webClientProvider = webClientProvider;
+        }
+
+        private IEnumerable<dynamic> GetRawData()
+        {
+            var client = webClientProvider.WebClient();
 
             var data = client.DownloadString(api);
 
             var json = $"{{ speakers : {data}}}";
 
-            var speakers = (JObject.Parse(json) as dynamic).speakers as IEnumerable<dynamic>;
+            return (JObject.Parse(json) as dynamic).speakers as IEnumerable<dynamic>;
+        }
+
+
+        // GET: api/FutureSync
+        [HttpGet("tracks")]
+        public IEnumerable<string> GetTracks()
+        {
+            var speakers = GetRawData();
 
             return speakers
-                .Select(s => s.name.ToString())
-                .Cast<string>();
+                .Select(s => s.track.ToString())
+                .Cast<string>()
+                .Distinct();
+        }
+
+        [HttpGet("speakers")]
+        public IEnumerable<Speaker> GetSpeakers()
+        {
+            var speakers = GetRawData();
+
+            return speakers
+                .Select(s => new Speaker
+                {
+                    Name = s.name.ToString(),
+                    Description = s.description.ToString()
+                })
+                .Distinct();
         }
     }
 }
