@@ -24,15 +24,23 @@ namespace futuresyncDatabase.Controllers
             this.webClientProvider = webClientProvider;
         }
 
+        private IEnumerable<dynamic> rawData = null;
+
         private IEnumerable<dynamic> GetRawData()
         {
-            var client = webClientProvider.WebClient();
+            if (rawData == null)
+            {
 
-            var data = client.DownloadString(api);
+                var client = webClientProvider.WebClient();
 
-            var json = $"{{ speakers : {data}}}";
+                var data = client.DownloadString(api);
 
-            return (JObject.Parse(json) as dynamic).speakers as IEnumerable<dynamic>;
+                var json = $"{{ speakers : {data}}}";
+
+                rawData = (JObject.Parse(json) as dynamic).speakers as IEnumerable<dynamic>;
+            }
+
+            return rawData;
         }
 
 
